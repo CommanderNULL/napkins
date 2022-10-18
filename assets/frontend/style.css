@@ -1,0 +1,12 @@
+.main-container {
+    width: 80%;
+    background: aliceblue;
+}
+
+.main-container p {
+    color: blueviolet;
+}
+
+.main-container img {
+    width: 50%;
+}
